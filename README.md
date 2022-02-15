@@ -24,5 +24,5 @@ Hi! I am Mircea, a Computer Science student living in Cluj-Napoca, Romania. Besi
   </a>
   
 <a href="https://github.com/looney2501?tab=repositories">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looney2501&theme=midnight-purple&card_width=270&layout=compact&langs_count=10" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=looney2501&theme=midnight-purple&card_width=270&layout=compact" align="center" />
   </a>
