@@ -1,5 +1,5 @@
 # About Me
-Hi! I am Mircea, a Computer Science student living in Cluj-Napoca, Romania. Besides Computer Science, my passions include reading, watching movies and improving my general knowledge about culture, history and geography.
+Hi! I am Mircea, a Computer Science student living in Cluj-Napoca, Romania. Besides Computer Science, my passions include reading, playing football, watching movies and improving my general knowledge about culture, history and geography.
 
 # How To Reach Me
 <a href = "https://www.linkedin.com/in/mircea-george-cozarev-a87973231/">
